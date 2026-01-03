@@ -1,35 +1,67 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=From+Code+to+Commerce+%E2%80%93+I+Build%2C+Scale%2C+%26+Lead;Builder+of+DIMRAJ+%7C+Tech+%2B+Business+Visionary;Software+Developer+%7C+Data+Scientist+%7C+ML+Enthusiast;Sofware+Engineer+%7C+Business+Strategist+%7C+Digital+Marketing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=1000&lines=From+Ideas+to+Execution+%E2%80%93+Building+Scalable+Systems;Growth+%7C+Platforms+%7C+Business+%2B+Technology;AI+%26+Data+as+Levers+for+Scale" alt="Typing SVG" />
 
-### 👋 Hi there, I'm Mukul Goyal  
-> **Visionary | Builder | Technologist | Business Strategist**
+## 👋 Hi, I’m Mukul Goyal  
 
-I bridge the gap between **technology and business** — building innovative ecosystems like **DIMRAJ**, crafting ideas for **India's own Search Engine** and **LLM**, and scaling digital solutions that impact millions.
+I build and scale **technology-enabled business systems** at the intersection of **growth, execution, and platforms**.
 
----
+My work focuses on turning ideas into **structured, scalable systems** — combining **business strategy, data, cloud, and AI** to solve real-world problems and create long-term value.
 
-### 💡 What I Do:
-- 💻 Software Development & Data Science
-- 🧠 Machine Learning & Gen AI
-- ☁️ Cloud & Business Development
-- 🛒 E-Commerce Strategy & Digital Marketing
-- 🔐 Cybersecurity & Ethical Tech Exploration
+This GitHub is **not a traditional developer portfolio**.  
+It is a **thinking + execution portfolio** that documents how I design systems, frameworks, and solutions that scale.
 
 ---
 
-### 🧠 Learning & Exploring:
-`Python` · `JavaScript` · `Web Development` · `Data Science` · `R Language` · `Cybersecurity` · `Cloud Tech` · `Gen AI` · `Law & Finance`
+## 🔍 What This GitHub Represents
+
+- 📈 Growth & Go-To-Market (GTM) frameworks  
+- ⚙️ Execution systems & operating models  
+- 🤖 Practical AI & automation for business use-cases  
+- 📊 Data-driven decision systems & KPIs  
+- 🛒 Platform, marketplace & digital business thinking  
+
+All projects here are **case-study or simulation based**, focused on **clarity of thinking, structure, and execution**.
 
 ---
 
-### 🚀 Currently Building:
-🔍 A full-fledged **Indian Search Engine Ecosystem**  
-🧠 An **Indian LLM (Large Language Model)**  
-🌐 Bridging **Tech + Bharat** with scalable solutions
+## 🧠 Core Themes I Work Around
+
+- Building scalable business & platform systems  
+- Bridging business goals with technology execution  
+- Using AI & data to improve decisions and efficiency  
+- Designing operating models, processes & growth loops  
+- Long-term value creation over short-term hacks  
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Work
+
+Pinned repositories include:
+- Growth & GTM case studies  
+- Operating models & execution frameworks  
+- AI use-cases for business workflows  
+- Analytics & KPI systems  
+- Unit economics & decision models  
+
+---
+
+## 🛠️ Tools & Exposure (Contextual)
+
+`Python` · `SQL (Analytics)` · `GenAI Tools` ·  
+`Cloud Platforms (AWS / GCP)` · `Dashboards` · `Automation`
+
+> Tools are used as **enablers**, not the focus.
+
+---
+
+## 🧭 Philosophy
+
+> “I focus on building systems that **last, scale, and create real value**.”
+
+---
+
+☕ Always open to conversations around **growth, systems, platforms, and execution**.
+
 
 ![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUKULGOYL&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKULGOYL&layout=compact&theme=radical)
@@ -46,7 +78,7 @@ I bridge the gap between **technology and business** — building innovative eco
 ---
 
 ### 🧭 Motto:
-> “I don’t just build software, I build ecosystems that create value.”
+> “I build ecosystems that create value.”
 
 ---
 
